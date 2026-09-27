@@ -1,0 +1,6 @@
+{
+  "name": "FinSmart AI – Financial Assistant",
+  "description": "AI-powered financial assistant for loan eligibility estimation, real-time EMI calculation, credit score profiling, and personalized advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
